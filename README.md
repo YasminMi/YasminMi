@@ -6,7 +6,7 @@ Olá! Eu sou Yasmin Mendes, estudante de Sistemas de Informação na UNEX, atual
 
 - 👩‍🎓 Estudante de Sistemas de Informação na UNEX.
 - 💻 Apaixonada pelo desenvolvimento no back end e pelo potencial de criação de sistemas robustos.
-- 💼 Ansiosa para ingressar no mundo profissional e aplicar minhas habilidades de desenvolvimento no back end.
+- 💼 Estou entusiasmada em aplicar minhas habilidades de desenvolvimento tanto no backend quanto no frontend. Busco oportunidades desafiadoras que me permitam crescer profissionalmente e contribuir de forma significativa para projetos inovadores.
 - 🌱 Comprometida em aprendizado contínuo e desenvolvimento pessoal na área.
 
 ## Contato
@@ -14,8 +14,6 @@ Olá! Eu sou Yasmin Mendes, estudante de Sistemas de Informação na UNEX, atual
 - GitHub: YasminMi
 - LinkedIn: https://www.linkedin.com/in/yasmin-mendes-a34a04186/
 - Email: yasminmendesdeoliveira@gmail.com
-
-Estou entusiasmada para conectar-me com profissionais da área e explorar oportunidades que me permitam crescer e contribuir. 😊
 
 
 <div style="display: inline_block"><br>
