@@ -1,17 +1,16 @@
-# Bem-vindo ao meu GitHub!
-
+# Bem-vindo(a) ao meu GitHub! <img src="https://media.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="80">
 Olá! Eu sou Yasmin Mendes, estudante de Sistemas de Informação na UNEX, atualmente no 7º semestre. Meu foco está direcionado para o desenvolvimento, e estou em busca de oportunidades emocionantes para aprimorar minhas habilidades e contribuir para projetos significativos nesta área.
 
 ## Sobre Mim
 
 - 👩‍🎓 Estudante de Sistemas de Informação na UNEX.
-- 💻 Apaixonada pelo desenvolvimento no back end e pelo potencial de criação de sistemas robustos.
+- 💻 Apaixonada por criar soluções inovadoras e explorar as possibilidades infinitas do desenvolvimento de software.
 - 💼 Estou entusiasmada em aplicar minhas habilidades de desenvolvimento tanto no backend quanto no frontend. Busco oportunidades desafiadoras que me permitam crescer profissionalmente e contribuir de forma significativa para projetos inovadores.
 - 🌱 Comprometida em aprendizado contínuo e desenvolvimento pessoal na área.
 
 ## Contato
 
-- GitHub: YasminMi
+- GitHub: [YasminMi](https://github.com/YasminMi)
 - LinkedIn: https://www.linkedin.com/in/yasmin-mendes-a34a04186/
 - Email: yasminmendesdeoliveira@gmail.com
 
@@ -25,4 +24,10 @@ Olá! Eu sou Yasmin Mendes, estudante de Sistemas de Informação na UNEX, atual
 </div>
 
 ##
+<br>
+
+
+![Bye!](https://media.tenor.com/gaQV766yYJ0AAAAi/cute-wave.gif)
+
+
 
