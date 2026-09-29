@@ -11,6 +11,10 @@ Building complete software products — from architecture to production.
 </p>
 
 <p align="center">
+  🏆 <strong>1st Place — Batalha de Agentes Itaú × Google 2026</strong>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineering;Frontend+%C2%B7+Backend+%C2%B7+APIs+%C2%B7+Cloud;Applied+AI+%26+Intelligent+Systems"/>
 </p>
 
@@ -36,6 +40,7 @@ I also work with **Applied AI**, building LLM-powered systems, RAG pipelines, re
 * Developed dashboards and data solutions used by **30+ managers** to support recurring business decisions.
 * Designed and evolved a complete **enterprise AI platform**, integrating frontend, backend, authentication, document processing, knowledge management and intelligent retrieval.
 * Worked with **RAG, semantic and hybrid search, embeddings, FAISS, BM25, reranking, OCR and AI evaluation**.
+* 🏆 Part of the team behind **Zera.ai**, winner of **1st Place at Batalha de Agentes Itaú × Google 2026**, with a focus on **RAG, AI guardrails and safe agent behavior**.
 
 ---
 
@@ -110,7 +115,22 @@ I also work with **Applied AI**, building LLM-powered systems, RAG pipelines, re
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### 🏆 Zera.ai — 1st Place, Batalha de Agentes Itaú × Google 2026
+
+AI agent for debt renegotiation designed to help customers understand their financial situation, compare viable scenarios and make informed decisions with explicit confirmation before any action.
+
+As part of the development team, I focused on **RAG and AI guardrails**, strengthening the agent against unsafe or unreliable behavior, including consent validation, PII redaction, adversarial payload detection, off-topic requests and unsupported numerical claims.
+
+The solution combines deterministic financial logic with an AI agent so that calculations and eligibility rules remain controlled while the LLM focuses on understanding intent and explaining options.
+
+**Core technologies:**  
+`Python` · `Google ADK` · `Gemini` · `Vertex AI` · `FastAPI` · `BigQuery` · `RAG` · `Guardrails` · `React` · `Cloud Run`
+
+**Repository:** [YasminMi/zera.ai-itau](https://github.com/YasminMi/zera.ai-itau)
+
+---
 
 ### AVA — Enterprise AI Platform
 
